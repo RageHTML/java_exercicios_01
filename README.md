@@ -5,6 +5,6 @@ O objetivo é consolidar conceitos de programação, estruturas de controle, cla
 
 ## Ranking mais interessantes 
 
-1. `` Desconto.java``(./Desconto.java)
-2. `` compraCarro ``(./compraCarro.java)
+1. [Desconto.java](./Desconto.java)
+2. [compraCarro.java](./compraCarro.java)
 
